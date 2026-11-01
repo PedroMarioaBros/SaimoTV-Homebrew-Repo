@@ -1,0 +1,38 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1,
+    "prevUrl": null,
+    "nextUrl": null
+  },
+  "packages": [
+    {
+      "id": "com-saimo-tv-lg-2-6-4",
+      "title": "Saimo TV",
+      "iconUri": "https://saimo-tv.pages.dev/favicon.ico",
+      "manifestUrl": "https://raw.githubusercontent.com/PedroMarioaBros/SaimoTV-Homebrew-Repo/main/manifests/com-saimo-tv.manifest.json",
+      "manifest": {
+        "id": "com.saimo.tv",
+        "version": "2.6.4",
+        "type": "web",
+        "title": "Saimo TV",
+        "appDescription": "Aplicativo Saimo TV para LG webOS. Canais ao vivo, guia de programação, filmes e séries.",
+        "iconUri": "https://saimo-tv.pages.dev/favicon.ico",
+        "sourceUrl": "https://github.com/gabrielsaimo/Saimo-TV",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.6.4/SaimoTV-LG.ipk",
+        "ipkHash": {
+          "sha256": "c97edd359be1dcce65e800086630115dc9428029c268ad1ab7a509dd66f25ff0"
+        },
+        "ipkSize": 1307078
+      },
+      "pool": "non-free",
+      "shortDescription": "Saimo TV para LG webOS — versão 2.6.4",
+      "requirements": {
+        "webosRelease": ">=3.0"
+      }
+    }
+  ]
+}
