@@ -1,6 +1,6 @@
 #EXTM3U
 # Saimo TV - conversao para SS IPTV
-# Fontes HLS sem Referer/User-Agent personalizados; 32 canais sem fonte compativel foram omitidos.
+# 378 canais identificados no catalogo; 32 fontes usam Referer/User-Agent personalizados.
 #EXTINF:-1 tvg-id="a-e" tvg-name="A&amp;E" tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentários",A&amp;E
 https://fallback1.nexustvplay.bbroot.com/nxs/stream/ae/ae.m3u8
 #EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Variedades",Adult Swim
