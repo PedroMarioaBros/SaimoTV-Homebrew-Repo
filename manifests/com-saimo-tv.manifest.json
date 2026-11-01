@@ -1,0 +1,15 @@
+{
+  "id": "com.saimo.tv",
+  "version": "2.6.4",
+  "type": "web",
+  "title": "Saimo TV",
+  "appDescription": "Aplicativo Saimo TV para LG webOS. Canais ao vivo, guia de programação, filmes e séries.",
+  "iconUri": "https://saimo-tv.pages.dev/favicon.ico",
+  "sourceUrl": "https://github.com/gabrielsaimo/Saimo-TV",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.6.4/SaimoTV-LG.ipk",
+  "ipkHash": {
+    "sha256": "c97edd359be1dcce65e800086630115dc9428029c268ad1ab7a509dd66f25ff0"
+  },
+  "ipkSize": 1307078
+}
