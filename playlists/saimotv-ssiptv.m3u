@@ -693,3 +693,131 @@ https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-classicos" tvg-name="TV Clássicos" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries",TV Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-name="Anime Channel TV" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil",Anime Channel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/anime-tv
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-name="24H Os Smurfs" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Os Smurfs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/the-smurfs-tv
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="TV Aberta",TV A Crítica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-a-critica
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://img.faz-o-eli.online/viva.png" group-title="Variedades",Viva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/viva
+https://aws.s13-s1001604.lat/stream/5c26746b95e7ead7d92ec9b47d7f940f/viva.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://img.faz-o-eli.online/comedycentral.png" group-title="Variedades",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/comedy-central
+https://aws.s13-s1001604.lat/stream/9be6499402ccfdef84b540cb6d808fb7/comedycentral.m3u8
+#EXTINF:-1 tvg-name="Amazon Prime Video 05" tvg-logo="https://1.embedcanaisdetv.com/images/amazonprimevideo.png" group-title="Esportes",Amazon Prime Video 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/amazonprimevideo05/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 01" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes",Apple TV 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv01/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 02" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes",Apple TV 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv02/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 03" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv03/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 04" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv04/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 05" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv05/index.m3u8
+#EXTINF:-1 tvg-name="Apple TV 06" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/appletv06/index.m3u8
+#EXTINF:-1 tvg-name="CazeTV 4" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazeTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/cazetv4/index.m3u8
+#EXTINF:-1 tvg-name="CazeTV 5" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazeTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/cazetv5/index.m3u8
+#EXTINF:-1 tvg-name="CazeTV 6" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazeTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/cazetv6/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 07" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney+ 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus07/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 08" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney+ 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus08/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 09" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney+ 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus09/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 03" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus03/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 05" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus05/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 06" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus06/index.m3u8
+#EXTINF:-1 tvg-name="MAX 04" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",MAX 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/max04/index.m3u8
+#EXTINF:-1 tvg-name="MAX 05" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",MAX 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/max05/index.m3u8
+#EXTINF:-1 tvg-name="Nosso Futebol" tvg-logo="https://1.embedcanaisdetv.com/images/nossofutebol.png" group-title="Esportes",Nosso Futebol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/nossofutebol/index.m3u8
+#EXTINF:-1 tvg-name="Paramount+ 05" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Esportes",Paramount+ 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/paramountplus05/index.m3u8
+#EXTINF:-1 tvg-name="Paramount+ 06" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Esportes",Paramount+ 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/paramountplus06/index.m3u8
+#EXTINF:-1 tvg-name="Paramount+ 07" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Esportes",Paramount+ 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/paramountplus07/index.m3u8
+#EXTINF:-1 tvg-name="AMC Séries" tvg-logo="https://vipcanais.net/images/amcseries.png" group-title="Filmes e Séries",AMC Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d2-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/amcseries/index.m3u8
+#EXTINF:-1 tvg-name="Record DF" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta",Record DF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/recorddf/index.m3u8
+#EXTINF:-1 tvg-name="Record ES" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta",Record ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/recordes/index.m3u8
+#EXTINF:-1 tvg-name="Disney+ 04" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/disneyplus04/index.m3u8
+#EXTINF:-1 tvg-name="Max" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/max/index.m3u8
